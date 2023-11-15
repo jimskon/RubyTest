@@ -1,0 +1,2 @@
+# RubyTest
+A test template
